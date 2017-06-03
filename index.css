@@ -1,0 +1,49 @@
+/*
+Azul: #0E4477
+Branco: #FFFFFF
+font-family: Helvetica
+*/
+
+body {
+  background-color: #0e4477;
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2, h3, h4, h5, p, li, a {
+  font-family: Helvetica, 'Roboto', Arial;
+  color: #0e4477;
+}
+
+h1 {
+  text-align: center;
+  font-weight: 400;
+  font-size: 28px;
+  text-transform: uppercase;
+}
+
+h2 {
+  margin-bottom: 10px;
+}
+
+.container {
+  padding-top: 60px;
+  height: 100%;
+  margin: 0 auto;
+  max-width: 1000px;
+  background-color: #ffffff;
+}
+
+.logo {
+  text-align: center;
+}
+
+.logo img {
+  width: 238px;
+  height: 219px;
+}
+
+.contact {
+  margin: 60px auto 30px;
+  text-align: center;
+}
